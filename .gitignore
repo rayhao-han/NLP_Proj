@@ -1,1 +1,3 @@
 venv/
+# DistilBERT checkpoints (~260 MB each) are too large for GitHub
+checkpoints/distilbert_*
